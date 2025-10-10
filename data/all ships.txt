@@ -385,27 +385,12 @@ shipyard "All Ships"
 	"Waverider"
 	"Windjammer"
 	"Winter Gale"
+	"_Ion Timer Ship"
 
 
 
 
 # Add a valid category to uncategorized ships to make them appear in shipyards.
-ship "Nanobot"
-	add attributes
-		category "Interceptor"
-
-ship "Timer Ship"
-	add attributes
-		category "Interceptor"
-
-ship "_Ion Timer Ship"
-	add attributes
-		category "Interceptor"
-
-ship "Hallucination"
-	add attributes
-		category "Interceptor"
-
 ship "Cloak Check"
 	add attributes
 		category "Game Mechanics"
